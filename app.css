@@ -1,0 +1,25 @@
+body{
+    background-color: darkolivegreen;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+h1{
+    text-align: center;
+    color:rgb(240, 233, 170);
+}
+#list-movies{
+    list-style-type:circle;
+    
+}
+
+.remove-button{
+    margin-left: 10px;  
+}
+
+#form-container{
+   padding-inline: 10px;
+}
+.sort{
+   padding: 10px;
+   margin: 10px;
+}
